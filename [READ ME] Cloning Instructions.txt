@@ -1,0 +1,19 @@
+If you can't open my website when you download it via zip, and shows an address on the page like: 
+
+	version https://git-lfs.github.com/spec/v1 oid sha256:c305f19c01fcbe6a27f7b22255b0cbd7556cbf722106ae7ed47f69013646bc0d size 2409
+
+don't download my page via zip. Instead, use the
+
+		$ git clone (YOUR GITHUP REPO ADDESS eg. https://github.com/Philrey/Paderogao_PhilRey_PersonalWebsite.git) (file directory using "/" and not "\")
+
+	example: 
+
+		$ git clone https://github.com/Philrey/Paderogao_PhilRey_PersonalWebsite.git c:\Users\Administrator\Desktop\MyNewRepo
+
+	change it to:
+
+		$ git clone https://github.com/Philrey/Paderogao_PhilRey_PersonalWebsite.git C:/Users/Administrator/Desktop/MyNewRepo
+
+Then You're done!
+
+Thanks For Reading RANDOM PERSON!
